@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 
-import './html-view-style.css'
+import './html-view.css'
 // @TODO add html-view script (choice relayout)
 
 const HtmlViewBox = styled.div`
