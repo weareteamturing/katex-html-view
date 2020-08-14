@@ -1,6 +1,6 @@
 {
   "name": "katex-html-view",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "katex rendered html view assets",
   "main": "index.js",
   "scripts": {
