@@ -7,6 +7,8 @@ img {
 }
 
 ._cms_content-frame {
+  user-select: none;
+  -webkit-user-drag: none;
   position: relative;
   line-height: 2;
   font-size: 13px;
@@ -28,7 +30,7 @@ img {
 }
 
 /* duplicated ._cms_content-frame wrapper issue */
-._cms_content-frame > ._cms_content-frame {
+._cms_content-frame>._cms_content-frame {
   padding: 0;
 }
 
@@ -70,7 +72,7 @@ img {
   max-width: 280px;
 }
 
-._cms_content-frame img + br {
+._cms_content-frame img+br {
   display: none;
 }
 
@@ -83,7 +85,7 @@ img {
   margin: 12px auto;
 }
 
-._cms_condition-box-frame + br {
+._cms_condition-box-frame+br {
   display: none;
 }
 
