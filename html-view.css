@@ -37,7 +37,6 @@ img {
 
 /* choice style */
 ._cms_choice-box ._cms_choice {
-  white-space: nowrap;
   display: inline-block;
   box-sizing: border-box;
   text-align: left;
